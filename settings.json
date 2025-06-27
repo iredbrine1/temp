@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "iam7AMAbot",
+    "password": "",
+    "type": "cracked"
+  },
+
+  "server": {
+    "ip": "iredbrine.aternos.me",
+    "port": 60651,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "This bot made to make the server always running ",
+        "I'm developed by iredbrine_ ",
+        "contact the dev for bot like that ",
+        "Developed by iredbrine_"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
